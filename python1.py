@@ -1,1 +1,2 @@
-print("Trial idk new")
+print("Trial")
+print("IDK")
